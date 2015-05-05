@@ -1,0 +1,214 @@
+
+/*
+  ========================================
+  Navigation
+  ========================================
+*/
+header{
+	padding-left:40px;
+	padding-right:150px;
+}
+.primary-nav {
+	font-size:24px;
+	font-weight:400;
+	letter-spacing: .5px;
+	word-spacing: 60px;
+	text-transform: uppercase;
+	margin-top: 13%;
+
+}
+
+
+.nav {
+  float: right;
+
+}
+
+/*
+  ========================================
+  Images
+  ========================================
+*/
+.logo{
+	
+	margin-top: 30px;
+}
+.programmer{
+	float:right;
+	
+}
+.dotline{
+	display: inline;
+	float: left;
+	margin-top: 10%;
+	
+}
+
+/*
+  ========================================
+  a Tag
+  ========================================
+*/
+a {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+a:hover {
+  color: #a9b2b9;
+}
+
+h1{
+	color: #FFFFFF;
+}
+
+/*
+  ========================================
+  Words
+  ========================================
+*/
+.describe{
+	font-size:20px;
+	font-weight: 400;
+	color: #404041;
+	width:80%;
+}
+.dict{
+	display: inline-block;
+
+	font-size:100px;
+	font-weight:400;
+	margin-top: 50px;
+	margin-bottom: 0;
+	width: 100%;
+	
+	
+}
+
+.def{
+	color: #FFFFFF;
+
+	font-size:60px;
+	margin-top: 40px;
+	margin-bottom: 0;
+	
+}
+.bdef{
+	color: #FFFFFF;
+	font-size:20px;
+	margin-top: 40px;
+	margin-bottom: 0;
+	
+
+}
+
+
+.code{
+	font-family: 'Inconsolata';
+	font-size: 25px;
+	margin-top: 20px;
+	margin-bottom: 0;
+	
+}
+
+/*
+  ========================================
+  Button
+  ========================================
+*/
+.joinbtn{
+	border-radius:5px;
+	float:left;
+	cursor:pointer;
+	color: #FFFFFF;
+	font-size:20px;
+	font-weight:400;
+	font-family: "Lato";
+	margin-top:5%;
+
+}
+
+.joinbtn-alt{
+	border:1px solid #dfe2e5;
+	padding:10px 30px;
+}
+
+.joinbtn-alt:hover{
+	background:#fff;
+	color:#648880;
+}
+
+/*
+  ========================================
+  Inline block for pics
+  ========================================
+*/
+.images{
+	display: inline-block;	
+	float:right;
+	
+}
+
+/*
+  ========================================
+  Inline block for words
+  ========================================
+*/
+.words{
+	text-align: left;
+	float:left;
+	display: inline-block;
+	color: #FFFFFF;
+	font-family: 'Libre Baskerville', serif;
+	margin-left: 8%;
+	
+}hr{
+	color: #FFFFFF;
+}
+
+/*
+  ========================================
+  General body
+  ========================================
+*/
+body {
+  background: #36a6b0;
+  color: #888;
+  font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 0;
+}
+
+
+/*
+  ========================================
+  List view
+  ========================================
+*/
+ 
+ul {
+
+  list-style-type: none;
+
+}
+ 
+h3 {
+  font: bold 20px/1.5 ;
+
+}
+ 
+li img {
+  float: left;
+  margin: 0 15px 0 0;
+}
+ 
+li p {
+  font: 200 12px/1.5;
+  font-weight: 400;
+  color:#404041; 
+}
+ 
+li {
+  padding: 10px;
+  overflow: auto;
+  width:60%;
+}
+ 
